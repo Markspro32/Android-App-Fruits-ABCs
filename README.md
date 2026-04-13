@@ -1,6 +1,21 @@
-# Fruit Learning App (MaterialTest)
+# Fruit Learning App ---- Fruits ABCs
 
 An Android app built to help children learn more about fruits in a fun and visual way.
+
+## Preview:
+### Overview:
+
+<img width="314" height="696" alt="Screenshot of Fruit List" src="https://github.com/user-attachments/assets/3bb6b096-7aeb-418c-abbf-475c5ce4cc88" />
+
+### Fruit Introduction Page:
+
+<img width="316" height="699" alt="Screenshot of Grape" src="https://github.com/user-attachments/assets/936e22f7-38f3-4c76-9292-ebad69c7063d" />
+
+### Comments on a Fruit You Like:
+
+<img width="1512" height="982" alt="Screenshot of Comment" src="https://github.com/user-attachments/assets/5235bad1-fb06-4067-acb3-fd11a93b7acf" />
+
+
 
 ## Why I built this
 
